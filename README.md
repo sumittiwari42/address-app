@@ -1,5 +1,5 @@
 # Vue 3 + TypeScript + Vite
 
-npn install
+npm install
 
 npm run dev
