@@ -1,0 +1,15 @@
+body,
+html,
+h1 {
+  font-family: Arial;
+  margin: 0px;
+  padding: 0px;
+}
+
+.flex {
+  display: flex;
+}
+
+.form-control {
+  width: 33%;
+}
